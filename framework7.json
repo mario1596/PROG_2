@@ -1,0 +1,26 @@
+{
+  "cwd": "C:\\ABC\\PROG_2",
+  "type": [
+    "web"
+  ],
+  "name": "PROG_1",
+  "framework": "core",
+  "template": "single-view",
+  "bundler": "webpack",
+  "cssPreProcessor": false,
+  "webpack": {
+    "developmentSourceMap": true,
+    "productionSourceMap": true,
+    "hashAssets": false,
+    "preserveAssetsPaths": false,
+    "inlineAssets": true
+  },
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
